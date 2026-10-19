@@ -1,0 +1,35 @@
+# Secrets and environment files
+.env
+.env.*
+*.env
+
+# SSH / keys / certificates
+*.pem
+*.key
+*.crt
+id_rsa
+id_ed25519
+
+# Private local documentation
+private/
+
+# Password / vault exports
+*.csv
+*.json
+*.kdbx
+
+# Backups / archives
+*.bak
+*.backup
+*.zip
+*.tar
+*.tar.gz
+
+# Logs
+*.log
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
