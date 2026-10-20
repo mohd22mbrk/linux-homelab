@@ -1,0 +1,14 @@
+site_name: Linux Homelab
+site_description: Ubuntu Server homelab documentation
+
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Services: services.md
+  - Networking: networking.md
+  - Storage and Backups: storage-backups.md
+  - Security: security.md
+  - Operations: operations.md
+  - Troubleshooting: troubleshooting.md
+  - Scripts: scripts.md
+  - Changelog: changelog.md
